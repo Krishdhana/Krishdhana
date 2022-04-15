@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Krishdhana
 - 👀 I’m interested in Developing Apps
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Working as as Angular Developer
+- ✨ Learning Flutter for Mobile development :)
 
 <!---
 Krishdhana/Krishdhana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
