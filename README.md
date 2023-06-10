@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishdhana
 - 👀 I’m interested in Developing Apps
-- 🌱 I’m currently Working as Angular Developer
+- 🌱 I’m currently Working as ReactJS/AngularJS Developer
 - ✨ Learning Springboot with mySQL
 
 <!---
